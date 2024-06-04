@@ -1,0 +1,80 @@
+a {
+    color: blue;
+    text-decoration: none;
+    padding-right: 7px;
+}
+
+img.imagess {
+    line-height: 60px;
+    height: 60px;
+    width: 70px;
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    margin: 0;
+    display: block;
+    background-size: 100%;
+}
+
+span.alert.alert-info {
+    font-size: 18px;
+}
+
+h6.mb-0.w-px-100.text-success {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+h6.mb-0.w-px-100.text-warning {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+h6.m-0 {
+    font-size: 15px;
+}
+
+.nabav {
+    color: blue;
+}
+
+.pagi.pn {
+    padding-bottom: 1px;
+}
+
+.card2.card-body {
+    margin-bottom: 8px;
+}
+
+i.bx.bxs-wallet {
+    font-size: 40px;
+}
+
+i.bx.bxl-paypal {
+    font-size: 40px;
+}
+
+nav#layout-navbar {
+    position: fixed;
+    top: 0;
+    width: 79.5%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    transition: align-items .2s;
+    margin-left: 26px;
+}
+
+.content-wrapper {
+    padding-top: 75px;
+}
+
+.layout-page {
+    padding-left: 100px;
+    margin-left: 160px;
+}
+
+aside#layout-menu {
+    position: fixed;
+    height: 1005;
+    display: flex;
+}

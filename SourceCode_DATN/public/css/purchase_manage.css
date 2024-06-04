@@ -1,0 +1,167 @@
+a {
+    color: blue;
+    text-decoration: none;
+    padding-right: 7px;
+}
+
+img.imagess {
+    line-height: 60px;
+    height: 60px;
+    width: 70px;
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    margin: 0;
+    display: block;
+    background-size: 100%;
+}
+
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }
+
+.card {
+    margin-bottom: 10px;
+}
+
+.row{
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.col-12.col-lg-8 {
+    padding-right: 0px;
+}
+
+.card-header {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.be-wrapper {
+    min-height: 100%;
+    padding-top: 73px;
+}
+
+.card-body.table-responsive {
+    height: 301px;
+    background-color: white;
+}
+
+/* .col-md-12.col-lg-3.mb-4.mb-lg-0 {
+    background-color: gainsboro;
+} */
+
+.col-md-6.col-lg-3.mb-4.mb-md-0 {
+    background-color: gainsboro;
+}
+
+.below.card-body {
+    padding: 5px;
+    margin: 5px;
+}
+
+.name.d-flex.justify-content-between {
+    font-size: 22px;
+}
+
+.card-img-top {
+    height: 130px;
+}
+
+.bn {
+    background: none; 
+    border: none; 
+    outline: none;
+    display: inline-block;
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0; 
+}
+
+.modal-trigger-btn {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer; /* Biến con trỏ thành dấu nhấp chuột khi di chuột qua */
+    padding: 0;
+}
+
+.modal-trigger-btn span {
+    display: inline-block;
+}
+
+.modal-content {
+    border-radius: 15px;
+}
+
+.container.py-0 {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 15px;
+}
+
+input.for.form-check-input {
+    margin-left: 0;
+    position: relative;
+}
+
+input.for.dt-checkboxes.form-check-input {
+    margin-left: 0;
+    position: relative;
+}
+
+.m-0 {
+    font-size: 17px;
+}
+
+h6.mb-0.w-px-100.text-warning {
+    margin-top: 0;
+    font-size: 15px;
+}
+
+h6.mb-0.w-px-100.text-success {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.nabav {
+    color: blue;
+}
+
+.borde {
+    padding-right: 10px;
+    border-right: 1px solid #d9dee3 !important;
+}
+
+.bord {
+    margin-right: 10px;
+}
+
+nav#layout-navbar {
+    position: fixed;
+    top: 0;
+    width: 79.5%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    transition: align-items .2s;
+    margin-left: 26px;
+}
+
+.content-wrapper {
+    padding-top: 75px;
+}
+
+.layout-page {
+    padding-left: 100px;
+    margin-left: 160px;
+}
+
+aside#layout-menu {
+    position: fixed;
+    height: 1005;
+    display: flex;
+}
+
+div#add_button_purchase {
+    margin: 7px 0 7px 0;
+}

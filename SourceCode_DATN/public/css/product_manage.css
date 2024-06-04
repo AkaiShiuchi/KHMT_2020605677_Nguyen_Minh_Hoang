@@ -1,0 +1,93 @@
+img.imagess {
+    line-height: 60px;
+    height: 60px;
+    width: 70px;
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    margin: 0;
+    display: block;
+    background-size: 100%;
+}
+
+input#product_name {
+    width: 270px;
+}
+
+form#searchForm {
+    margin-bottom: 0px;
+}
+
+button.btn.btn-secondary.add-new.btn-primary {
+    border-radius: 7px;
+    height: 0%;
+}
+
+form.for.d-flex {
+    margin-bottom: 0;
+}
+
+.card-datatable.table-responsive {
+    overflow-x: clip;
+}
+
+ul.pagination.justify-content-end {
+    margin-top: 15px;
+}
+
+div#DataTables_Table_0_info {
+    margin-top: 20px;
+}
+
+.d-flex.justify-content-start.justify-content-md-end.align-items-baseline {
+    padding: 10px 0 10px 0;
+}
+
+i.bx.bx-edit {
+    font-size: 18px;
+}
+
+i.bx.bx-dots-vertical-rounded.me-2 {
+    font-size: 18px;
+}
+
+nav#layout-navbar {
+    position: fixed;
+    top: 0;
+    width: 79.5%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    transition: align-items .2s;
+    margin-left: 26px;
+}
+
+.content-wrapper {
+    padding-top: 75px;
+}
+
+.layout-page {
+    padding-left: 100px;
+    margin-left: 160px;
+}
+
+aside#layout-menu {
+    position: fixed;
+    height: 1005;
+    display: flex;
+}
+
+.pp {
+    position: absolute;
+    left: 20px;
+    top: 82%;
+}
+
+div#data_table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button.btn.bn.btn-outline-warning {
+    height: 40px;
+    margin-top: 10px;
+}
